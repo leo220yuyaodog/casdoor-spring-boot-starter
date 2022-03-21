@@ -21,7 +21,7 @@ You can refer to the Casdoor official documentation for the [Server Installation
 After a successful deployment, you need to ensure:
 
 - The Casdoor server is successfully running on **http://localhost:8000**.
-- Open your favorite browser and visit **http://localhost:7001**, you will see the login page of Casdoor.
+- Open your favorite browser and visit **http://localhost:8000**, you will see the login page of Casdoor.
 - Input `admin` and `123` to test login functionality is working fine.
 
 
